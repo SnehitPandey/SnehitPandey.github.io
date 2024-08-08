@@ -16588,6 +16588,10 @@ a:active {
 .hover-ais:hover {
 	align-items: stretch;
 }
+.jcs,
+.hover-jcs:hover {
+	justify-content: stretch;
+}
 .jcc,
 .hover-jcc:hover {
 	justify-content: center;
